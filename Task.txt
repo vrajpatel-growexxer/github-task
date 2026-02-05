@@ -1,17 +1,5 @@
 Tasks, You have to follow.
 Let's start again
-
-Scenario 1 — SSH, Clone, Branch, Push/Pull
-Generate SSH key and connect your machine to GitHub.
-Set your Git global username and email.
-Clone the repository using SSH.
-Create a new branch named dev and push it to remote.
-Create a branch feature/login from dev.
-Add a new file and commit it in feature/login.
-Push feature/login to GitHub.
-Switch back to dev and pull latest changes.
-share your created repo  with any 2-3 member create feature branch  and push into dev solve conflice
- 
  Scenario 2 — Team Collaboration, PR, Merge to dev
 You are added to an existing GitHub repository. What steps will you follow first?
 Checkout the dev branch from remote.
