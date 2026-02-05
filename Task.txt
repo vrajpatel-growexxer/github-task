@@ -15,9 +15,9 @@ erge conflict while merging into dev.
 After PR is merged, update your local dev branch.
 
 Scenario 3 — Merge dev into prod and Revert
-Create a new branch prod from dev and push it.
-Merge latest dev changes into prod.
-A bug is found in the last commit on prod. How will you fix it without deleting history?
+Create a new why to worry 
+and do the following
+last commit on prod. How will you fix it without deleting history?
 Push the corrected prod branch to remote.
 
  Scenario 4 — Rebase Old Feature Branch with Updated dev
