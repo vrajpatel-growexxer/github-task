@@ -1,6 +1,6 @@
 # **GIT HANDS ON PRACTICE**
 - Scenarios driven practice
-- Concepts covered: pull, push, revert, rebase
+- Concepts covered: pull, push, revert, rebase, merge, PR Request
 
 GIT HANDS ON EXERCISE;
 
