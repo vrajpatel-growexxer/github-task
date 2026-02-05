@@ -1,3 +1,39 @@
 *GIT HANDS ON PRACTICE*
 - Scenarios driven practice
 - Concepts covered: pull, push, revert, rebase
+GIT HANDS ON EXERCISE;
+
+Scenario 1 — SSH, Clone, Branch, Push/Pull
+Generate SSH key and connect your machine to GitHub.
+Set your Git global username and email.
+Clone the repository using SSH.
+Create a new branch named dev and push it to remote.
+Create a branch feature/login from dev.
+Add a new file and commit it in feature/login.
+Push feature/login to GitHub.
+Switch back to dev and pull latest changes.
+share your created repo  with any 2-3 member create feature branch  and push into dev solve conflice
+ 
+ Scenario 2 — Team Collaboration, PR, Merge to dev
+You are added to an existing GitHub repository. What steps will you follow first?
+Checkout the dev branch from remote.
+Create a branch feature/cart from dev.
+Make changes and push your branch.
+Create a Pull Request to merge into dev.
+Review another intern’s PR and request changes.
+Resolve a merge conflict while merging into dev.
+After PR is merged, update your local dev branch.
+
+Scenario 3 — Merge dev into prod and Revert
+Create a new branch prod from dev and push it.
+Merge latest dev changes into prod.
+A bug is found in the last commit on prod. How will you fix it without deleting history?
+Push the corrected prod branch to remote.
+
+ Scenario 4 — Rebase Old Feature Branch with Updated dev
+Your feature/auth branch is 10 commits behind dev. How will you update it?
+Perform rebase of feature/auth with dev.
+Resolve conflicts during rebase.
+Continue rebase after resolving conflicts.
+Push rebased branch to remote.
+
