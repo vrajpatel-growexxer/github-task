@@ -20,10 +20,3 @@ and do the following
 last commit on prod. How will you fix it without deleting history?
 Push the corrected prod branch to remote.
 
- Scenario 4 — Rebase Old Feature Branch with Updated dev
-Your feature/auth branch is 10 commits behind dev. How will you update it?
-Perform rebase of feature/auth with dev.
-Resolve conflicts during rebase.
-Continue rebase after resolving conflicts.
-Push rebased branch to remote.
-
