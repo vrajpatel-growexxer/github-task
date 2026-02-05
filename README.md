@@ -1,3 +1,6 @@
+*GIT HANDS ON PRACTICE*
+- Scenarios driven practice
+- Concepts covered: pull, push, revert, rebase
 GIT HANDS ON EXERCISE;
 
 Scenario 1 — SSH, Clone, Branch, Push/Pull
