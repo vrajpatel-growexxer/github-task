@@ -1,4 +1,4 @@
-GIT HANDS ON EXERCISE
+GIT HANDS ON EXERCISE;
 
 Scenario 1 — SSH, Clone, Branch, Push/Pull
 Generate SSH key and connect your machine to GitHub.
