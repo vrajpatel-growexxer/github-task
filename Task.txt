@@ -5,9 +5,13 @@ You are added to an existing GitHub repository. What steps will you follow first
 Checkout the dev branch from remote.
 Create a branch feature/cart from dev.
 Make changes and push your branch.
-Create a Pull Request to merge into dev.
-Review another intern’s PR and request changes.
-Resolve a merge conflict while merging into dev.
+Why to vworry
+lwoei
+efjeor
+eieorrwere
+Creat Mainlye do the flolwo
+ksoeir
+erge conflict while merging into dev.
 After PR is merged, update your local dev branch.
 
 Scenario 3 — Merge dev into prod and Revert
